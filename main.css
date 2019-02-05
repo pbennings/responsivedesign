@@ -74,7 +74,7 @@ img {
 .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background: url(https://image.ibb.co/kYJK8x/showcase.jpg);
+    background: url(picofme2.jpg);
     background-size: cover;
     background-position: center;
     padding: 3rem;
